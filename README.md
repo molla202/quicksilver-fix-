@@ -1,6 +1,7 @@
 # quicksilver-fix-
-
-
+```
+sudo apt install curl build-essential git wget jq make gcc tmux -y
+```
 ```
 rm -rvf /usr/local/go/
 wget https://golang.org/dl/go1.19.3.linux-amd64.tar.gz

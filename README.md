@@ -35,7 +35,7 @@ quicksilverd init <moniker-name> --chain-id=quicksilver-1
 ```
 quicksilverd keys add cüzdanadı --interactive
 ```
-and mnemonic
+buraya mnemoniclerimizi yazıyoruz ne şifre girdiysek onceden hatırlıyorsanız onu yazıyoruz 2 defa cüzdanı eklıyor kontrol edin mainnet adresi olduğunu kaydettiğinizle
 
 ```
 quicksilverd keys export mainnetcüzdanadı --unarmored-hex --unsafe

@@ -43,3 +43,9 @@ quicksilverd keys export mainnetcüzdanadı --unarmored-hex --unsafe
 ```
 çıkan private keyimizi keplere ekliyoruz bamm mallar içerde hayırlı olsun Ttoprak73  private key alma kodunu verdmesinden ötürü çok tşk ederim beraberce çözdük sanırım 
 
+tamam buraya kadar geldik malı aldık elimiz değmişken stakede yapalım malum cüzdandan keplr den stake yapamıyoruz ama burdan oluyro
+
+
+```
+quicksilverd tx staking delegate quickvaloper1jhv0ejjud3h8mr7v72mwmx9xeyzz84mwm2fzye miktar000000uqck --from=cüzdanadı --node http://75.119.144.167:26657 --chain-id=quicksilver-1 --gas=250000
+```

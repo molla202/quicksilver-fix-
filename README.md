@@ -49,3 +49,4 @@ alttaki adres benim validatorun.
 ```
 quicksilverd tx staking delegate quickvaloper1jhv0ejjud3h8mr7v72mwmx9xeyzz84mwm2fzye miktar000000uqck --from=cüzdanadı --node http://75.119.144.167:26657 --chain-id=quicksilver-1 --gas=250000
 ```
+# https://t.me/gokhan_molla  özelden adresinizi atın size stake yapabilmeniz için bakiye atayım arkadaşlar.

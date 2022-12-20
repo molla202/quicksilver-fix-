@@ -19,14 +19,22 @@ go version
 
 ```
 git clone https://github.com/ingenuity-build/quicksilver && cd quicksilver
+```
+```
 git fetch origin --tags
+```
+```
 git checkout v1.0.0
+```
+```
 make install
 ```
 
 
 ```
 quicksilverd config chain-id quicksilver-1
+```
+```
 quicksilverd config keyring-backend test
 ```
 

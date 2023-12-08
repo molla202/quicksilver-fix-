@@ -24,7 +24,7 @@ git clone https://github.com/ingenuity-build/quicksilver && cd quicksilver
 git fetch origin --tags
 ```
 ```
-git checkout v1.0.0
+git checkout v1.2.17
 ```
 ```
 make install
@@ -32,14 +32,14 @@ make install
 
 
 ```
-quicksilverd config chain-id quicksilver-1
+quicksilverd config chain-id quicksilver-2
 ```
 ```
 quicksilverd config keyring-backend test
 ```
 
 ```
-quicksilverd init <moniker-name> --chain-id=quicksilver-1
+quicksilverd init <moniker-name> --chain-id=quicksilver-2
 ```
 ```
 quicksilverd keys add cüzdanadı --interactive
